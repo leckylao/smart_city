@@ -12,6 +12,8 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
+    "csv": "^5.3.2",
+    "leaflet": "^1.7.1",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
